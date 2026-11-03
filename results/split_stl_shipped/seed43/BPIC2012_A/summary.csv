@@ -1,0 +1,2 @@
+dataset,seed,split,val_inside_train,accuracy_mean_over_k,accuracy_over_all_predictions,next_time_mae_days_mean_over_k,next_time_mae_days_over_all_predictions,n_predictions,train_seconds,model_type,n_size,l_size,lstm_act,norm_method,epochs_max,search,max_eval,model_folder
+BPIC2012_A,43,stl,True,0.7362672566199828,0.7141357592722183,2.4201578069973624,1.5206952631655775,11432,2651,shared_cat,5,100,tanh,lognorm,200,False,1,20261024_F549FCBF_CB80_4080_B8FF_1B9D50BE1BC6
